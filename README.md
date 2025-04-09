@@ -1,4 +1,4 @@
 # A College Mini Project on Lane Detection
-A comparative analysis of two lane detection approaches, using OpenCV and Keras & SciKitLearn
+A comparative analysis of two lane detection approaches, using OpenCV and Keras & scikit-learn
 
-Dataset - [KITTI Vision Benchmark Suite](https://www.cvlibs.net/datasets/kitti/) : Road/Lane Detection
+Dataset - [BDD100K](http://bdd-data.berkeley.edu/)
